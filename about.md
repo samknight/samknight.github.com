@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am Technical Director of [Substrakt Health](https://substrakthealth.com). We are a technology company enabling the primary care sector to innovate the way in which they provide services, using digital tools.
+I work as a consultant helping organisations with their technology strategy, innovation and delivery.
 
-During the span of my career I have worked as a Developer, Business Analyst, Local Councillor and as the Deputy Cabinet Member for Technology, Innovation and Skills at Cardiff Council. The experience I've gained in these posts, working on some amazing projects, has provided me with the capability to deliver digital projects in an agile and effective way. 
+I haved worked in software for over a decade in a variety of roles from developer to Technical Director of a Health Tech startup delivering innovative software for the NHS.
 
-I'm passionate about the importance of citizen engagement, and am enjoying my role in advancing and improving healthcare services. 
+I've also worked in public policy as as Councillor and Deputy Cabinet Member for Technology, Innovation and Skills.
 
-I like to be involved in projects that help improve public services and society. 
+I've worked in wide range of sectors from finance, sport, membership organisations, charities, health to e-commerce. My passion though is for projects that improve society.
+
+I am currently working as a Solution Architect and Agile Coach at [Box UK](https://boxuk.com).
 

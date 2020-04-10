@@ -22,8 +22,6 @@ url: "https://samknight.co.uk" # the base hostname & protocol for your site, e.g
 twitter_username: samknight
 github_username:  samknight
 
-google_analytics: UA-162779025-1
-
 # Build settings
 markdown: kramdown
 theme: minima

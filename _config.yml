@@ -18,7 +18,8 @@ email: sam@samknight.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Engineering Manager
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://samknight.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+site: https://www.samknight.co.uk
+url: https://www.samknight.co.uk
 github_username:  samknight
 
 permalink: /:year/:month/:day/:title

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Omnifocus Plugin - Duplicate for list
+title: Omnifocus Plugin Duplicate for list
 ---
 
 I've just released a plugin for Omnifocus called [Duplicate for List](https://github.com/samknight/omnifocus-automation-scripts). This plugins allows you to duplicate any task and replace a placeholder with values from a list.

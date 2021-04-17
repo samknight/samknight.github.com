@@ -16,10 +16,9 @@
 title: Sam Knight
 email: sam@samknight.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Technology consultant specialising in agile and product development
+  Engineering Manager
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://samknight.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: samknight
 github_username:  samknight
 
 permalink: /:year/:month/:day/:title

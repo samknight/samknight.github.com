@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Inconsistent swipe actions in Mail (iOS and iPadOS)
+title: [RESOLVED] Inconsistent swipe actions in Mail (iOS and iPadOS)
 ---
+
+**Resolved**
+
+**I have managed to resolve this issue thanks to my colleague Rich, who linked me to this [answer](https://9to5mac.com/2021/03/25/delete-gmail-on-iphone-instead-of-archive/)**
 
 I've recently been using an iPad much more frequently than I have in the past and during this time my frustration over swipe actions in mail has grown into all consuming anger.
 

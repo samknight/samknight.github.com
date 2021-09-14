@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [RESOLVED] Inconsistent swipe actions in Mail (iOS and iPadOS)
+title: Inconsistent swipe actions in Mail (iOS and iPadOS)
 ---
 
 **Resolved**

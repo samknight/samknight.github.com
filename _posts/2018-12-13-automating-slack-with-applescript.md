@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automating Slack with AppleScript
+categories: "[writings]"
 ---
 
 I recently published an [AppleScript library](https://github.com/samknight/slack_applescript) to help automate common tasks I do in Slack.

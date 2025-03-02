@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What makes a real deadline
-categories: "[writings]"
+categories: [writings]
 ---
 
 We are all working to deadlines, all the time. Whether you’re working to a daily print deadline or a project deadline further in the future, everbody is ruled by the deadline. Too often we don't get to choose our deadlines, they get imposed upon us. Our workload is also something we can't always control. This means we are often looking at calendars knowing that work left to do is impossible to be delivered by the deadline. 

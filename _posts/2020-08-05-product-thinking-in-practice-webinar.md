@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Product Thinking in Practice webinar
-categories: "[writings, musings]"
+categories: [writings, musings]
 ---
 
 Last month I hosted a webinar with my Box UK colleague Kevin Greer on Product Thinking for Wales Tech Week. It's a helpful introduction to some different ways of thinking about development and how we've put some of that into practice.
